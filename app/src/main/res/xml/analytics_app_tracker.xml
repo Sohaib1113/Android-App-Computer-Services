@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="TypographyDashes">
+
+    <!-- Analytics Tracking Id -->
+    <string name="ga_trackingId">UA-65652141-8</string>
+
+    <string name="ga_sampleFrequency">100.0</string>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <bool name="ga_reportUncaughtExceptions">true</bool>
+    <integer name="ga_sessionTimeout">-1</integer>
+
+    <screenName name="com.computer.service.activities.MainActivity">MainActivity</screenName>
+    <screenName name="com.computer.service.activities.ActivityMenuCategory">Product Category</screenName>
+    <screenName name="com.computer.service.activities.ActivityMenuList">Product List</screenName>
+    <screenName name="com.computer.service.activities.ActivityMenuDetail">Product Details</screenName>
+
+</resources>

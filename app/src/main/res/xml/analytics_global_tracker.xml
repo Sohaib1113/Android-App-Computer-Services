@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="TypographyDashes">
+
+    <string name="ga_logLevel">verbose</string>
+    <integer name="ga_dispatchPeriod">30</integer>
+    <bool name="ga_dryRun">false</bool>
+
+    <!-- The screen name that will appear in reports -->
+    <string name="com.computer.service.activities.MainActivity">MainActivity</string>
+    <string name="com.computer.service.activities.ActivityMenuCategory">Product Category</string>
+    <string name="com.computer.service.activities.ActivityMenuList">Product List</string>
+    <string name="com.computer.service.activities.ActivityMenuDetail">Product Details</string>
+
+</resources>

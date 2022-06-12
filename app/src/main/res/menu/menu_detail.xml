@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/buy"
+        android:icon="@drawable/ic_buy"
+        android:orderInCategory="100"
+        android:title="@string/action_buy"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/cart"
+        android:orderInCategory="100"
+        android:title="@string/action_cart"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/checkout"
+        android:icon="@drawable/ic_checkout_circle"
+        android:orderInCategory="100"
+        android:title="@string/action_checkout"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_save"
+        android:orderInCategory="100"
+        android:title="@string/action_save"
+        app:showAsAction="never" />
+
+</menu>
